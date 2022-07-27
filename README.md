@@ -182,7 +182,4 @@ This will subscribe to /direction topic and execute motion by using Moveit move 
 
 **We can’t visualize the pick and place actions in gazebo**
  
-## testing 
-<img width="1792" alt="Screen Shot 1443-12-21 at 2 38 44 AM" src="https://user-images.githubusercontent.com/60257920/179868375-f0267b66-7dd2-4e52-a226-bf46df9702e4.png">
-<img width="1792" alt="Screen Shot 1443-12-21 at 2 40 47 AM" src="https://user-images.githubusercontent.com/60257920/179868388-85ea21db-a615-4350-9741-1d4f4c9ffea7.png">
-<img width="1792" alt="Screen Shot 1443-12-21 at 2 40 56 AM" src="https://user-images.githubusercontent.com/60257920/179868390-5a1f036f-36fd-4d4e-bd5c-2a8e2e703030.png">
+
